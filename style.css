@@ -4,7 +4,7 @@ body{
 	background-image: url(pic/WhatsApp\ Image\ 2024-01-28\ at\ 12.53.21_6dde4af6.jpg);
     background-repeat: no-repeat;
 	background-size: cover;
-	
+  background-color: rgba(255, 255, 255, 0.5); /* Adjust the last value (0.0 to 1.0) for opacity */
 
 }
 .wrapper {
