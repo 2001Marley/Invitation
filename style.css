@@ -4,9 +4,11 @@ body{
 	background-image: url(pic/WhatsApp\ Image\ 2024-01-28\ at\ 12.53.21_6dde4af6.jpg);
     background-repeat: no-repeat;
 	background-size: cover;
+	
 
 }
 .wrapper {
+	
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -55,7 +57,7 @@ body{
 	border-bottom-right-radius: 15px;
 }
 .spooky_bg {
-	background: url(pic/03\ FEB\,\ 2023.jpg);
+	background: url(pic/03\ FEB\,\ 2023.png);
 	background-size:cover;
 	background-repeat: no-repeat;
 	background-position:bottom;
